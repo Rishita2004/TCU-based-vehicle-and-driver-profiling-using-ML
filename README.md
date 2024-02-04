@@ -1,4 +1,4 @@
-# Project README
+# Project Hero IntelliSafe
 
 ## Idea / Solution
 
@@ -27,6 +27,6 @@ Our portal leverages advanced AI/ML models for precise and effective driver and 
 
 The integration of Panda, a device designed to connect to a bike’s OBD port, stands out as a pivotal feature. It enables the control of specific functions based on the bike's ECU, paving the way for the development of "self-driving safe bikes". This innovative approach to vehicle management and safety exemplifies the potential for transformative changes in the automotive industry.
 
-### Conclusion
+## Conclusion
 
 Our solution represents a significant step forward in the domain of two-wheeler ICE/EV technology, offering a suite of powerful tools for vehicle and driver analysis. With a focus on safety, efficiency, and scalability, we are poised to redefine standards and lead the way in intelligent vehicular solutions.
