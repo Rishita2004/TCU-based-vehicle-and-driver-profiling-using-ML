@@ -18,7 +18,7 @@ Our portal leverages advanced AI/ML models for precise and effective driver and 
 ## Technology Stack / Dependencies
 
 - **AI/ML Frameworks:** Keras, TensorFlow, Scikit-learn
-- **Networking Technology:** HTTP, MQTT Protocol
+- **Networking Technology:** HTTP, Internet Protocol
 - **Cloud Hosting:** EC2 AWS
 - **Database Management:** MongoDB, PostgreSQL
 - **Development Tools:** React, Superbase, Flask, MERN
